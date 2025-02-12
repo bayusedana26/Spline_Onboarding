@@ -1,6 +1,6 @@
 # Spline Onboarding - iOS 3D Integration
 
-![result](images/result.png)
+![result](Spline_Onboarding/images/result.png)
 
 This project demonstrates how to integrate **Spline** into an iOS app using SwiftUI, allowing you to display 3D content within your application.
 
